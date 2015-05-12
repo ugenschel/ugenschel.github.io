@@ -1,0 +1,20 @@
+name: Ulrike Genschel
+description: Assistant Professor at Iowa State University Statistics
+url: http://ugenschel.github.io
+auto: true
+markdown: kramdown
+permalink: /:year/:month/:day/:title
+rdiscount extensions: [smart]
+navigation:
+- text: About
+  id: "#one"
+- text: CV
+  id: /cv.pdf
+- text: Teaching
+  id: "#teaching"
+- text: Research
+  id: "#research"
+- text: Service
+  id: "#service"
+- text: Students
+  id: "#students"
