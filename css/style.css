@@ -519,11 +519,12 @@
 		display: inline-block;
 	}
 
-	ul.two-column li:before {
-	 content:'\d20';
-	 margin-right: 0.5em;
-	 margin-left: -1em;
-	 color: #990000;
+	ul.color-bullets li{
+		color: #990000;
+	}
+
+	ul.color-bullets li span{
+		color: #888;
 	}
 
 		ul li {

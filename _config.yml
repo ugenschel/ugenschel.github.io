@@ -10,11 +10,9 @@ navigation:
   id: "#one"
 - text: CV
   id: /cv.pdf
-- text: Teaching
-  id: "#teaching"
 - text: Research
   id: "#research"
-- text: Service
-  id: "#service"
 - text: Students
   id: "#students"
+- text: Teaching
+  id: "#teaching"
