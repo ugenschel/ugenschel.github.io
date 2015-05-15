@@ -511,6 +511,21 @@
 		padding-left: 1em;
 	}
 
+
+	ul.two-column li{
+		padding: 0 .5em 0 0.5em;
+		position: relative;
+		width: 49%;
+		display: inline-block;
+	}
+
+	ul.two-column li:before {
+	 content:'\d20';
+	 margin-right: 0.5em;
+	 margin-left: -1em;
+	 color: #990000;
+	}
+
 		ul li {
 			padding-left: 0.5em;
 		}
