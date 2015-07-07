@@ -16,3 +16,5 @@ navigation:
   id: "#students"
 - text: Teaching
   id: "#teaching"
+- text: Miscellaneous
+  id: "#miscellaneous"
