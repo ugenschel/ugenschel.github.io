@@ -1,21 +1,91 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
  <LINK REL=stylesheet HREF="/style.css" TYPE="text/css">
-<TITLE>Ulrike Genschel's Home Page</TITLE>   
+<TITLE>Ulrike Genschel's Home Page</TITLE>  
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+  background-color: #856;
+  padding: 5px;
+  text-align: center;
+  font-size: 25px;
+  color: white;
+}
+
+/* Create two columns/boxes that floats next to each other */
+nav {
+  float: left;
+  width: 30%;
+  background: #ccc;
+  padding: 20px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 10px;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #f1f1f1;
+}
+
+/* Clear floats after the columns */
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the footer */
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+</style>
 </head>
 <body>
-<div id="menu">
-<ul>
-<li><a href="index.html"><strong style="font-size: 125%;">Ulrike Genschel</strong></a></li>
+  
+  <header>
+  <h2>Ulrike Genschel</h2>
+  <h4>Department of Statistics</h4>
+  <h4>Iowa State University</h4>
+</header>
+
+<section>
+  <nav>
+    <ul>
 <li><a href="cv.pdf">CV</a></li>
 <li><a href="https://www.iastate.edu/">Iowa State University</a></li>
 <li><a href="http://stat.iastate.edu/">Department of Statistics</a></li>
 <li><a href="http://stat.iastate.edu/">Department of Statistics</a></li>
-</ul>
-</div>
+    </ul>
+  </nav>
 
-<img src = "images/photos/sun-trees.jpg">      
+<img src = "images/photos/sun-trees.jpg" alt="tree in sun light" width="500" height="300" >      
 
 
 
