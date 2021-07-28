@@ -81,13 +81,26 @@ body {
 </div>
    
 <section>
-  <div>
+<div style="padding-left:16px">
 <h2>Recent Publications</h2>
  
 <ol>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Schweiger, D., Stone, R., <b>Genschel, U.</b> (2021). Nondominant hand computer mouse training and the bilateral transfer effect to the dominant hand. <i>Scientific Reports</i>, Vol.<b>11</b>,  4211, <a href="doi.org/10.1038/s41598-021-83770-4">doi</a>.</li>
+    <li>Sage, A. J., <b>Genschel, U.</b>, Nettleton, D. (2020). A residual-based approach for robust random forest regression. <i>Statistics and Its Interface</i>. Accepted.</li>
+    <li>Green, H., Litchfield, R., <b>Genschel, U.</b> (2020). Nutrition status of female division I college gymnasts: a descriptive study. <i>The Sport Journal</i>. Published November 20, 2020. <a href="https://thesportjournal.org/article/nutrition-status-of-female-division-i-college-gymnasts-a-descriptive-study/">link</a>.</li>
+<li>Rice, K., Genschel, U.,  Hofmann, H. (2020). A Robust Approach to Automatically Locating Grooves in 3D Bullet Land Scans. Journal of Forensic Sciences. Vol. 65(3):775-783, <a href="doi.org/10.1111/1556-4029.14263">doi</a>.</li>   
+<li>Sage, A., <b>Genschel, U.</b>,  Nettleton, D. (2020). Tree Aggregation for Random Forest Class Probability Estimation. Statistical Analysis and Data Mining. Vol. 13(2):134-150. <a href="doi.org/10.1002/sam.11446">doi</a>.</li>    
+<li>Strauss, R.A., <b>Genschel, U.</b>, Allbaugh, R.A., Sebbag, L., Ben-Shlomo, G. (2019). Evaluation of microbial contamination of canine plasma eyedropper bottles following clinical use in canine patients. Veterinary Ophthalmology. Vol. 22(3):222-228. <a href="https://doi.org/10.1111/vop.12580">doi</a></li>
+<li>Sage, A., Cervato, C., <b>Genschel, U.</b>,  Ogilvie, C.A. (2018). Combining Academics and Social Engagement: A Major-Specific Early Alert Method to Counter Student Attrition in Science, Technology, Engineering, and Mathematics. Journal of College Student Retention: Research, Theory & Practice. <a href="doi.org/10.1177/1521025118780502">doi</a>.</li>   
+<li>Moss, E., Cervato, C., <b>Genschel, U.</b>, Ihrig, L., Ogilvie, C.A. (2018). Authentic research in an introductory geology laboratory and student reflections: Impact on nature of science understanding and science self-efficacy. Journal of Geoscience Education. <a href="doi.org/10.1080/10899995.2018.1411730">doi</a>.</li>   
+<li>Gansemer-Topf, A., Downey, J., <b>Genschel, U.</b> (2018). Understanding Undermatching: Examining Factors Related to Degree Attainment for Academically Undermatched Students. Journal of College Student Retention: Research, Theory & Practice. <a href="doi.org/10.1177/1521025117753822">doi</a>.</li>   
+<li><b>Genschel, U.</b> (2018). The Effect of Data Contamination in Sliced Inverse Regression and Finite Sample Breakdown Point. Sankhya Series A. Vol. 80(1):28-58. <a href="doi.org/10.1007/s13171-017-0102-x.">doi</a></li>   
+<li>Gansemer-Topf, A.M., Downey, J., Thompson, K.M., <b>Genschel, U.</b> (2018). Did the recession impact student success? Relationships of finances, staffing and institutional type on retention. Research in Higher Education.  Vol. 59(2):174-197.
+<a href="doi.org/10.1007/s11162-017-9462-2.">doi</a></li>   
+<li>Gansemer-Topf, A., Downey, J., <b>Genschel, U.</b> (2017). Definitions Matter:  Investigating and Comparing Different Operationalizations of Academic Undermatching. Practical Assessment, Research, and Evaluation. Vol.12:28-40. </li>   
+<li></li>   
+<li></li>   
+<li></li>   
 </ol>
 </div>
 </section>

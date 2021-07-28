@@ -115,18 +115,6 @@ function myFunction() {
 }
 </script>
 
-<!-- Photo Grid -->
-<div class="row"> 
-  <div class="column">
-  <img src="/images/photos/sun-trees.jpeg" style="width:100%">
-  </div>
-  <div class="column">
-  <img src="/images/photos/sun-trees.jpeg" style="width:100%">
- 
-  </div>  
-  </div> 
-
-
 
 
 <H3 style="padding-left:16px">
@@ -142,5 +130,16 @@ Contact
       Phone : (515) 294-7766<BR>
       Email: <A HREF="mailto:ulrike@iastate.edu">ulrike at iastate dot edu</A>
       </p>  
+      
+<!-- Photo Grid -->
+
+<div class="column">
+  <img src="images/photos/sun-trees.jpg" style="width:100%">
+</div>
+
+
+
+      
+      
 </body>
 </html>
