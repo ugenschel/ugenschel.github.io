@@ -3,22 +3,22 @@
     "path": "~/Documents/GitHub/ugenschel.github.io/research.html",
     "project_path": "research.html",
     "type": "html",
-    "hash": "2514966575",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1626452436794.0,
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
-        "cursorPosition": "104,0",
-        "scrollLine": "99"
+        "cursorPosition": "64,0",
+        "scrollLine": "60"
     },
     "folds": "",
     "lastKnownWriteTime": 1627420937,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1627420937956,
+    "last_content_update": 1627490140902,
     "read_only": false,
     "read_only_alternatives": []
 }
