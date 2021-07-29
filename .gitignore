@@ -3,3 +3,4 @@ _site/
 
 #Mac nonsense
 .DS_Store
+.Rproj.user
